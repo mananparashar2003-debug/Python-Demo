@@ -1,4 +1,5 @@
 # Python-Demo
 This is my first Git repository.
 <br>
-Author- Manan Parashar
+Author- Manan (Manav Rachna)
+</br>
